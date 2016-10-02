@@ -1,2 +1,2 @@
 # firecracker-PAKI
-**P**ocket sized, **A**rduino based, rapid **k**eystroke **i**njector.
+**P**ocket sized, **A**rduino based, rapid **K**eystroke **I**njector.
