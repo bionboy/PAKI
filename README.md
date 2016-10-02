@@ -1,2 +1,2 @@
 # firecracker-PAKI
-Pocket sized, Arduino based, rapid keystroke injector.
+**P**ocket sized, **A**rduino based, rapid **k**eystroke **i**njector.
