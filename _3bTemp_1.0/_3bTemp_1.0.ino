@@ -1,8 +1,8 @@
 #include <Keyboard.h>
  int led = 13;
  int b0 = 12;
- int b1 = 9;
- int b2 = 6;
+ int b1 = 8;
+ int b2 = 4;
  int dtime = 500;
 void setup() {
   pinMode(led, OUTPUT);
